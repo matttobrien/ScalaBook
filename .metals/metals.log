@@ -1745,3 +1745,21 @@ Caused by: java.lang.IllegalArgumentException: 9 is not a valid line number, all
 [0m2021.09.09 17:26:28 WARN  no build target for: /Users/mattobrien/Desktop/scala/Classes/Abstract.scala[0m
 Sep 09, 2021 5:27:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+[0m2021.09.10 19:25:35 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuffer.scala[0m
+Sep 10, 2021 7:28:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2284
+[0m2021.09.10 19:31:07 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuffer.scala[0m
+[0m2021.09.10 19:31:19 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuffer.scala[0m
+[0m2021.09.10 19:34:06 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuf.scala[0m
+[0m2021.09.10 19:34:27 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuff.scala[0m
+[0m2021.09.10 19:34:38 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuff.scala[0m
+[0m2021.09.10 19:36:25 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuff.scala[0m
+Sep 10, 2021 7:37:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3137
+[0m2021.09.10 19:37:21 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuff.scala[0m
+[0m2021.09.10 19:38:27 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuffers.scala[0m
+[0m2021.09.10 19:38:31 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/ArrayBuffers.scala[0m
+[0m2021.09.10 19:38:49 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Lists.scala[0m
+Sep 10, 2021 7:42:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3511
+[0m2021.09.10 19:42:41 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Lists.scala[0m
