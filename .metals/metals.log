@@ -1763,3 +1763,34 @@ WARNING: Unmatched cancel notification for request id 3137
 Sep 10, 2021 7:42:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 3511
 [0m2021.09.10 19:42:41 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Lists.scala[0m
+[0m2021.09.13 11:44:30 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Vectors.scala[0m
+[0m2021.09.13 12:13:29 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Vectors.scala[0m
+[0m2021.09.13 12:15:24 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Vectors.scala[0m
+[0m2021.09.13 12:15:26 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Vectors.scala[0m
+[0m2021.09.13 12:19:27 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Maps.scala[0m
+[0m2021.09.13 12:27:24 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Maps.scala[0m
+[0m2021.09.13 12:27:41 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Maps.scala[0m
+[0m2021.09.13 12:28:45 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Sets.scala[0m
+Sep 13, 2021 12:30:26 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 90, count -1, length 100
+Sep 13, 2021 12:31:30 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 222, count -1, length 232
+[0m2021.09.13 12:33:36 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Sets.scala[0m
+[0m2021.09.13 12:34:07 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Sets.scala[0m
+[0m2021.09.13 12:34:33 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Sets.scala[0m
+something's wrong: no file:///Users/mattobrien/Desktop/scala/Collections/Sets.scala in () => <error>RangePosition(file:///Users/mattobrien/Desktop/scala/Collections/Sets.scala, 139, 165, 395)
+[0m2021.09.13 12:34:48 WARN  no build target for: /Users/mattobrien/Desktop/scala/Collections/Sets.scala[0m
+[0m2021.09.13 13:06:47 WARN  no build target for: /Users/mattobrien/Desktop/scala/Tuples/Tuples.scala[0m
+[0m2021.09.13 13:14:24 WARN  no build target for: /Users/mattobrien/Desktop/scala/Tuples/Tuples.scala[0m
+[0m2021.09.13 13:14:47 WARN  no build target for: /Users/mattobrien/Desktop/scala/Tuples/Tuples.scala[0m
+[0m2021.09.13 13:17:58 WARN  no build target for: /Users/mattobrien/Desktop/scala/OPPExample/Address.scala[0m
+[0m2021.09.13 13:18:00 WARN  no build target for: /Users/mattobrien/Desktop/scala/OPPExample/Customer.scala[0m
+[0m2021.09.13 13:18:01 WARN  no build target for: /Users/mattobrien/Desktop/scala/OPPExample/Enumerations.scala[0m
+[0m2021.09.13 13:18:12 WARN  no build target for: /Users/mattobrien/Desktop/scala/OPPExample/MainDriver.scala[0m
+[0m2021.09.13 13:18:26 WARN  no build target for: /Users/mattobrien/Desktop/scala/OPPExample/Address.scala[0m
+[0m2021.09.13 13:18:45 WARN  no build target for: /Users/mattobrien/Desktop/scala/OPPExample/Pizza.scala[0m
+[0m2021.09.13 13:18:47 WARN  no build target for: /Users/mattobrien/Desktop/scala/OPPExample/MainDriver.scala[0m
+[0m2021.09.13 13:19:04 WARN  no build target for: /Users/mattobrien/Desktop/scala/OOPExample/Address.scala[0m
+[0m2021.09.13 13:19:04 WARN  no build target for: /Users/mattobrien/Desktop/scala/OOPExample/MainDriver.scala[0m
+Sep 13, 2021 1:19:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6711
